@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to Apulza AI
+## Hi there, welcome to Apulza 👋
 
 Apulza is an AI-driven student support platform focused on 
 making medical education and research more accessible and intelligent.
@@ -16,8 +16,10 @@ making medical education and research more accessible and intelligent.
 
 ### 👥 Teams
 - 🧑‍💻 SWE - Building the platform
+- 🤖 Machine Learning - Building the AI models
 - 🎨 Design - Crafting the experience  
 - 🔬 Research - Powering the intelligence
+- 📣 Marketing - Promoting the company
 
 ### 📬 Contact
 For inquiries reach out at info@apulza.com (yet to come)
