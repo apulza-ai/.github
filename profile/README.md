@@ -12,7 +12,7 @@ making medical education and research more accessible and intelligent.
 - Frontend: React / Next.js
 - Backend: Laravel / Node.js
 - AI: OpenBioLLM fine-tuned as ApulzaLLM
-- Database: MySQL / PostgreSQL
+- Database: Supabase / PostgreSQL
 
 ### 👥 Teams
 - 🧑‍💻 SWE - Building the platform
