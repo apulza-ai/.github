@@ -15,11 +15,11 @@ making medical education and research more accessible and intelligent.
 - Database: Supabase / PostgreSQL
 
 ### 👥 Teams
-- 🧑‍💻 SWE - Building the platform
-- 🤖 Machine Learning - Building the AI models
-- 🎨 Design - Crafting the experience  
-- 🔬 Research - Powering the intelligence
-- 📣 Marketing - Promoting the company
+- SWE - Building the platform
+- Machine Learning - Building the AI models
+- UI/UX Design - Crafting the experience  
+- Research - Powering the intelligence
+- Marketing - Promoting the company
 
 ### 📬 Contact
 For inquiries reach out at info@apulza.com (yet to come)
