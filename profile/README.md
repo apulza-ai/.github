@@ -8,7 +8,7 @@ making medical education and research more accessible and intelligent.
 - Tools to help medical students learn faster and smarter
 - A platform bridging the gap between research and education
 
-### 🛠️ Our Stack (Tentative)
+### 🛠️ Our Tech Stack (Tentative)
 - Frontend: React / Next.js
 - Backend: Laravel / Node.js
 - AI: OpenBioLLM fine-tuned as ApulzaLLM
